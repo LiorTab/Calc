@@ -1,4 +1,4 @@
-import './App.css';
+
 import { Component } from 'react';
 import Button from "./components/Button"
 import "./css/style.css";
